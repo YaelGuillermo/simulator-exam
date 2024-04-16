@@ -1,0 +1,14 @@
+C:\Users\Yael Gonzalez\source\repos\SimulacionExamenAdmision\bin\Debug\SimulacionExamenAdmision.exe.config
+C:\Users\Yael Gonzalez\source\repos\SimulacionExamenAdmision\bin\Debug\SimulacionExamenAdmision.exe
+C:\Users\Yael Gonzalez\source\repos\SimulacionExamenAdmision\bin\Debug\SimulacionExamenAdmision.pdb
+C:\Users\Yael Gonzalez\source\repos\SimulacionExamenAdmision\obj\Debug\SimulacionExamenAdmision.csproj.AssemblyReference.cache
+C:\Users\Yael Gonzalez\source\repos\SimulacionExamenAdmision\obj\Debug\SimulacionExamenAdmision.Principal.resources
+C:\Users\Yael Gonzalez\source\repos\SimulacionExamenAdmision\obj\Debug\SimulacionExamenAdmision.Properties.Resources.resources
+C:\Users\Yael Gonzalez\source\repos\SimulacionExamenAdmision\obj\Debug\SimulacionExamenAdmision.csproj.GenerateResource.cache
+C:\Users\Yael Gonzalez\source\repos\SimulacionExamenAdmision\obj\Debug\SimulacionExamenAdmision.csproj.CoreCompileInputs.cache
+C:\Users\Yael Gonzalez\source\repos\SimulacionExamenAdmision\obj\Debug\SimulacionExamenAdmision.exe
+C:\Users\Yael Gonzalez\source\repos\SimulacionExamenAdmision\obj\Debug\SimulacionExamenAdmision.pdb
+C:\Users\Yael Gonzalez\source\repos\SimulacionExamenAdmision\obj\Debug\SimulacionExamenAdmision.Generador.resources
+C:\Users\Yael Gonzalez\source\repos\SimulacionExamenAdmision\obj\Debug\SimulacionExamenAdmision.Aplicacion.resources
+C:\Users\Yael Gonzalez\source\repos\SimulacionExamenAdmision\obj\Debug\SimulacionExamenAdmision.Poker.resources
+C:\Users\Yael Gonzalez\source\repos\SimulacionExamenAdmision\obj\Debug\SimulacionExamenAdmision.Promedio.resources
